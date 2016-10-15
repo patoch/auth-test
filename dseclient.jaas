@@ -1,0 +1,6 @@
+DseClient {
+    com.sun.security.auth.module.Krb5LoginModule required
+      useKeyTab=true
+      keyTab="/tmp/myapp.keytab"
+      principal="myapp@RCIBDAC2";
+};
