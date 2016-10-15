@@ -1,6 +1,7 @@
-#DSE Authentication test / sample code
+#DSE Simple+Kerberos Authentication test 
 
 This is a short sample code to show how Plain Text and Kerberos authentification works on a Cassandra/DSE Cluster.
+It enables you to check that authentication is properly setup and works fine.
 The cluster should be setup with DSE Unified Authentication, Kerberos as main scheme and internal authentication as alternative schem.
 
 - The principal myapp@MYREALM.COM should be created on the KDC.
