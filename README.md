@@ -1,4 +1,4 @@
-#DSE Simple+Kerberos Authentication test 
+# Simple + Kerberos authentication test for DSE
 
 This is a short sample code to show how Plain Text and Kerberos authentification works on a Cassandra/DSE Cluster.
 It enables you to check that authentication is properly setup and works fine.
